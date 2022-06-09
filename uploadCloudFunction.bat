@@ -1,0 +1,1 @@
+"D:\应用程序\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-6gtnzj4b33234686 --n quickstartFunctions --r --project "D:\桌面\云开发 音乐" --report_first --report
